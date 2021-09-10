@@ -6,28 +6,13 @@
       {
         "id": "d89c578ff5558e76",
         "type": "leaf",
-        "dimension": 45.800176834659595,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "2-Areas/AprendizajeDelDesarrollo2D.md",
             "mode": "source"
           }
-        },
-        "group": "4d78f40164443870"
-      },
-      {
-        "id": "b2698b2a7c3e06b6",
-        "type": "leaf",
-        "dimension": 54.19982316534041,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview"
-          }
-        },
-        "group": "4d78f40164443870"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2-Areas/AprendizajeDelDesarrollo2D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,13 +83,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 320,
     "collapsed": true
   },
   "active": "d89c578ff5558e76",
   "lastOpenFiles": [
-    "README.md",
+    "2-Areas/Untitled.md",
     "1-Proyectos/JuegoDeMistborn2D.md",
+    "2-Areas/Mistborn2DGameplay.md",
+    "Mistborn2DGameplay.md",
+    "README.md",
     "1-Proyectos/Untitled.md",
     "Untitled.md"
   ]
