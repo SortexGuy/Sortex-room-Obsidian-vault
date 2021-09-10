@@ -6,13 +6,28 @@
       {
         "id": "d89c578ff5558e76",
         "type": "leaf",
+        "dimension": 45.800176834659595,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-Proyectos/JuegoDeMistborn2D.md",
+            "file": "README.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "4d78f40164443870"
+      },
+      {
+        "id": "b2698b2a7c3e06b6",
+        "type": "leaf",
+        "dimension": 54.19982316534041,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "4d78f40164443870"
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 175
   },
   "right": {
     "id": "ed5fcf1b0f1574e2",
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Proyectos/JuegoDeMistborn2D.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +103,7 @@
   },
   "active": "d89c578ff5558e76",
   "lastOpenFiles": [
+    "README.md",
     "1-Proyectos/JuegoDeMistborn2D.md",
     "1-Proyectos/Untitled.md",
     "Untitled.md"
