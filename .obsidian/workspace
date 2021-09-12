@@ -6,13 +6,28 @@
       {
         "id": "d89c578ff5558e76",
         "type": "leaf",
+        "dimension": 48.239436619718305,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2-Areas/AprendizajeDelDesarrollo2D.md",
+            "file": "1-Proyectos/Mistborn2D/TilemapSegments.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "61c851abdf7ea205"
+      },
+      {
+        "id": "8b0d4fb61d69fd22",
+        "type": "leaf",
+        "dimension": 51.760563380281695,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1-Proyectos/Mistborn2D/TilemapSegments.md",
+            "mode": "preview"
+          }
+        },
+        "group": "61c851abdf7ea205"
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175
+    "width": 170
   },
   "right": {
     "id": "ed5fcf1b0f1574e2",
@@ -68,14 +83,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/AprendizajeDelDesarrollo2D.md",
+                "file": "1-Proyectos/Mistborn2D/TilemapSegments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -88,12 +103,15 @@
   },
   "active": "d89c578ff5558e76",
   "lastOpenFiles": [
+    "1-Proyectos/Mistborn2D/TilemapSegments.md",
+    "2-Areas/GodotDev/Desarrollo2D.md",
+    "4-Archivos/JuegoDeMistborn2D.md",
+    "TilemapSegments.md",
+    "2-Areas/GodotDev/Untitled.md",
+    "2-Areas/Desarrollo2D.md",
+    "4-Archivos/AprendizajeDelDesarrollo2D.md",
+    "PARA.md",
     "2-Areas/Untitled.md",
-    "1-Proyectos/JuegoDeMistborn2D.md",
-    "2-Areas/Mistborn2DGameplay.md",
-    "Mistborn2DGameplay.md",
-    "README.md",
-    "1-Proyectos/Untitled.md",
-    "Untitled.md"
+    "README.md"
   ]
 }
