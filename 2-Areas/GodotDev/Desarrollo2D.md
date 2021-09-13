@@ -1,4 +1,4 @@
 Sinceramente no se como adaptar mis proyectos de godot a notas asi que por ahora pondre aqui mis "áreas de estudio".
 
-# Plataformas [Mistborn2D]
+# Plataformas _Mistborn2D_
 ### [[TilemapSegments|Guardar/Cargar segmentos de niveles en el Tilemap]]:
