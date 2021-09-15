@@ -6,11 +6,11 @@
       {
         "id": "d89c578ff5558e76",
         "type": "leaf",
-        "dimension": 48.239436619718305,
+        "dimension": 40.658499234303214,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-Proyectos/Mistborn2D/TilemapSegments.md",
+            "file": "1-Proyectos/Mistborn2D/MagicSystem.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "8b0d4fb61d69fd22",
         "type": "leaf",
-        "dimension": 51.760563380281695,
+        "dimension": 59.341500765696786,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-Proyectos/Mistborn2D/TilemapSegments.md",
+            "file": "1-Proyectos/Mistborn2D/MagicSystem.md",
             "mode": "preview"
           }
         },
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 170,
+    "collapsed": true
   },
   "right": {
     "id": "ed5fcf1b0f1574e2",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Proyectos/Mistborn2D/TilemapSegments.md",
+                "file": "1-Proyectos/Mistborn2D/MagicSystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +104,15 @@
   },
   "active": "d89c578ff5558e76",
   "lastOpenFiles": [
+    "1-Proyectos/Mistborn2D/MagicSystem.md",
+    "2-Areas/GodotDev/Desarrollo2D.md",
+    "MagicSystem.md",
+    "1-Proyectos/Mistborn2D/StateMachineDoble.md",
+    "3-Recursos/StateMachines.md",
+    "3-Recursos/Untitled.md",
+    "StateMachineDoble.md",
     "1-Proyectos/Mistborn2D/TilemapSegments.md",
     "1-Proyectos/Mistborn2D/LoadTilesFunc.jpg",
-    "2-Areas/GodotDev/Desarrollo2D.md",
-    "4-Archivos/JuegoDeMistborn2D.md",
-    "TilemapSegments.md",
-    "2-Areas/GodotDev/Untitled.md",
-    "2-Areas/Desarrollo2D.md",
-    "4-Archivos/AprendizajeDelDesarrollo2D.md",
-    "PARA.md",
-    "2-Areas/Untitled.md"
+    "4-Archivos/JuegoDeMistborn2D.md"
   ]
 }
